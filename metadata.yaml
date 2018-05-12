@@ -1,4 +1,8 @@
 _repo: Children-s-Edition-of-Touching-Incidents-and-Remarkable-Answers-to-Prayer_7026
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaw, S. B. (Solomon Benjamin)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2310'
     url: http://www.gutenberg.org/2009/agents/2310
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7026#Children-s-Edition-of-Touching-Incidents-and-Remarkable-Answers-to-Prayer
 gutenberg_bookshelf:
 - Christianity
 - Children's Religion
